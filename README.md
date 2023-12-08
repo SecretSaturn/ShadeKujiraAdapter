@@ -35,3 +35,15 @@ Create a .env file in the root of the project directory. Use the .env.sample pro
 Start the application:
 
 ```npm run start```
+
+### Docker setup
+
+Requires latest docker version
+
+$```
+docker compose -f docker/docker-compose.yml build
+docker compose -f docker/docker-compose.yml up
+```
+
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
