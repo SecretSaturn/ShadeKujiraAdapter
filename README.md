@@ -1,12 +1,11 @@
-# Secret Feegrant Faucet 2.0
+# Shade Kujira Adapter
 
-The next iteraton of the Fee Grant Faucet written in node express
-
-This faucet app allows anyone to request a fee grant for a Secret Network account address. 
+This adapter uses unencrypted inputs for querying contracts and outputs unencrypted queries. 
+This adapter is a quick and dirty made version - don't expect perfect behavior as from an LCD. 
 
 ## Installation
 
-Follow these steps to install and run FeeGrantFaucet2.0.
+Follow these steps to install and run Shade Kujira Adapter.
 
 ### Prerequisites
 
